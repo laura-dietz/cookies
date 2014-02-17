@@ -8,6 +8,9 @@ Printing
 
 Use the stl-files to print cookie cutters on your favorite 3D printer. Cutters are designed to be 1cm high for cookies of size 3cm x 4cm.
 
+We use slic3r to generate GCode. Models are best printed with a raft, to accomplish this enable support with a overhang threshold of 45 degrees.
+
+
 If you want to change the design, the shapes (as SVG) and the 3D models (as blender files) are included in the repository.
 
 Baking
